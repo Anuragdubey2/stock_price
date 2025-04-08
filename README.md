@@ -75,6 +75,7 @@ The app will open in your browser at `http://localhost:8501`.
 ## 📜 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
+This project is live u can check out : https://stockprice-jfmxclhrea2kxhwbnhdg5u.streamlit.app
 
 ---
 
